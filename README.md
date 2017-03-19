@@ -12,11 +12,13 @@ from the server.
 
 custom details `.\server_windows_amd64.exe --www ..\..\FEF-UdaciMeals-Backbone-master`
 
+open in http://localhost:8000/
+
 or
 
 `.\server_windows_amd64.exe --www ..\..\Frameworks\FEF-UdaciMeals-Backbone-master --port=8123`
 
-open in open http://localhost:8123/
+open in http://localhost:8123/
 
 # Resources
 * https://stackoverflow.com/questions/37036378/backbone-js-project-configuration
